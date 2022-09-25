@@ -33,6 +33,16 @@
     </li>
 </ul>
 
+</ul> 
+
+![Screenshot1](https://github.com/the-yash-rajput/placement-record/blob/main/public/img/ER_DIG.jpg)
+![Screensho2](https://github.com/the-yash-rajput/placement-record/blob/main/public/img/PIC1.jpg)
+![Screensho2](https://github.com/the-yash-rajput/placement-record/blob/main/public/img/PIC2.jpg)
+![Screensho2](https://github.com/the-yash-rajput/placement-record/blob/main/public/img/PIC3.jpg)
+![Screensho2](https://github.com/the-yash-rajput/placement-record/blob/main/public/img/PIC4.jpg)
+
+
+
 
 
 <b>- For more info, You can refer to the aforementioned REPORT.</b>
